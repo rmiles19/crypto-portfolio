@@ -22,6 +22,6 @@ class Coin < ApplicationRecord
       nil
     end
   end 
-
+end 
 
 end
